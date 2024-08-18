@@ -1,0 +1,19 @@
+in determining wither the bus is  Breakdown or Running Late i use some feature that help me so i will drop: 
+
+ School_Year > it will not affect the directly the condition of the target.
+
+Busbreakdown_ID> Id will not be helpful because it is unique.
+
+Occurred_On &Created_On> because the the bus will not Occurred if it Breakdown or Running Late.
+
+
+Number_Of_Students_On_The_Bus> it will not make any different in the condition of the bus 
+
+
+
+Incident_Number> consider as an id 
+
+
+Unique in Informed_On
+
+Unique in Last_Updated_On
